@@ -22,5 +22,5 @@
 <h2> Telas do Aplicativo </h2>
 
 <p align="center">
-<img src-"loja_virtual_front1"/>  <img src-"loja_virtual_front2"/>  <img src-"loja_virtual_front3"/> 
+<img src="loja_virtual_front1"/>  <img src="loja_virtual_front2"/>  <img src="loja_virtual_front3"/> 
 </p>
